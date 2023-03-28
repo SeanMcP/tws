@@ -2,7 +2,9 @@ import fastify from "fastify";
 
 const port = process.env.PORT ? parseInt(process.env.PORT) : 8080;
 
-const server = fastify();
+const server = fastify({
+  logger: true,
+});
 
 type StandardAbbreviation = "c" | "s" | "l";
 
