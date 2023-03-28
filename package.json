@@ -1,0 +1,29 @@
+{
+  "name": "tws",
+  "version": "1.0.0",
+  "description": "Prior art: - https://github.com/SeanMcP/westminster - https://github.com/SeanMcP/westin",
+  "main": "app.ts",
+  "scripts": {
+    "dev": "tsx watch app.ts",
+    "start": "tsx app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanMcP/tws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanMcP/tws/issues"
+  },
+  "homepage": "https://github.com/SeanMcP/tws#readme",
+  "dependencies": {
+    "fastify": "^4.15.0",
+    "tsx": "^3.12.6"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.10",
+    "typescript": "^5.0.2"
+  }
+}
