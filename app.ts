@@ -1,5 +1,7 @@
 import fastify from "fastify";
 
+const port = process.env.PORT ? parseInt(process.env.PORT) : 8080;
+
 const server = fastify();
 
 type StandardAbbreviation = "c" | "s" | "l";
@@ -90,7 +92,7 @@ server.get<{
   });
 });
 
-server.listen({ port: 8080 }, (err, address) => {
+server.listen({ port }, (err, address) => {
   if (err) {
     console.error(err);
     process.exit(1);
