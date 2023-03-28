@@ -1,0 +1,727 @@
+[
+    [
+        1,
+        "Who made you?",
+        "God."
+    ],
+    [
+        2,
+        "What else did God make?",
+        "God made all things."
+    ],
+    [
+        3,
+        "Why did God make you and all things ?",
+        "For his own glory."
+    ],
+    [
+        4,
+        "How can you glorify God?",
+        "By loving him and doing what he commands."
+    ],
+    [
+        5,
+        "Why ought you to glorify God?",
+        "Because he made me and takes care of me."
+    ],
+    [
+        6,
+        "Are there more gods than one?",
+        "There is only one God."
+    ],
+    [
+        7,
+        "In how many persons does this one God exist?",
+        "In three persons."
+    ],
+    [
+        8,
+        "What are they?",
+        "The Father, the Son, and the Holy Ghost."
+    ],
+    [
+        9,
+        "What is God?",
+        "God is a Spirit, and has not a body like men."
+    ],
+    [
+        10,
+        "Where is God?",
+        "God is everywhere."
+    ],
+    [
+        11,
+        "Can you see God?",
+        "No; I cannot see God, but he always sees me."
+    ],
+    [
+        12,
+        "Does God know all things?",
+        "Yes; nothing can be hid from God."
+    ],
+    [
+        13,
+        "Can God do all things?",
+        "Yes; God can do all his holy will."
+    ],
+    [
+        14,
+        "Where do you learn how to love and obey God?",
+        "In the Bible alone."
+    ],
+    [
+        15,
+        "Who wrote the Bible?",
+        "Holy men who were taught by the Holy Spirit."
+    ],
+    [
+        16,
+        "Who were our first parents?",
+        "Adam and Eve."
+    ],
+    [
+        17,
+        "Of what were our first parents made?",
+        "God made the body of Adam out of the ground, and formed Eve from the body of Adam."
+    ],
+    [
+        18,
+        "What did God give Adam and Eve besides bodies?",
+        "He gave them souls that could never die."
+    ],
+    [
+        19,
+        "Have you a soul as well as a body?",
+        "Yes; I have a soul that can never die."
+    ],
+    [
+        20,
+        "How do you know that you have a soul?",
+        "Because the Bible tells me so."
+    ],
+    [
+        21,
+        "In what condition did God make Adam and Eve?",
+        "He made them holy and happy."
+    ],
+    [
+        22,
+        "What is a covenant?",
+        "An agreement between two or more persons."
+    ],
+    [
+        23,
+        "What covenant did God make with Adam?",
+        "The covenant of works."
+    ],
+    [
+        24,
+        "What was Adam bound to do by the covenant of works?",
+        "To obey God perfectly."
+    ],
+    [
+        25,
+        "What did God promise in the covenant of works?",
+        "To reward Adam with life if he obeyed him."
+    ],
+    [
+        26,
+        "What did God threaten in the covenant of works?",
+        "To punish Adam with death if he disobeyed."
+    ],
+    [
+        27,
+        "Did Adam keep the covenant of works?",
+        "No; he sinned against God."
+    ],
+    [
+        28,
+        "What is Sin?",
+        "Sin is any want of conformity unto, or transgression of the law of God."
+    ],
+    [
+        29,
+        "What is meant by want of conformity?",
+        "Not being or doing what God requires."
+    ],
+    [
+        30,
+        "What is meant by transgression?",
+        "Doing what God forbids."
+    ],
+    [
+        31,
+        "What was the sin of our first parents?",
+        "Eating the forbidden fruit."
+    ],
+    [
+        32,
+        "Who tempted them to this sin?",
+        "The devil tempted Eve, and she gave the fruit to Adam."
+    ],
+    [
+        33,
+        "What befell our first parents when they had sinned?",
+        "Instead of being holy and happy, they became sinful and miserable."
+    ],
+    [
+        34,
+        "Did Adam act for himself alone in the covenant of works?",
+        "No; he represented all his posterity."
+    ],
+    [
+        35,
+        "What effect had the sin of Adam on all mankind?",
+        "All mankind are born in a state of sin and misery."
+    ],
+    [
+        36,
+        "What is that sinful nature which we inherit from Adam called?",
+        "Original sin."
+    ],
+    [
+        37,
+        "What does every sin deserve?",
+        "The wrath and curse of God."
+    ],
+    [
+        38,
+        "Can any one go to heaven with this sinful nature?",
+        "No; our hearts must be changed before we can be fit for heaven."
+    ],
+    [
+        39,
+        "What is a change of heart called?",
+        "Regeneration."
+    ],
+    [
+        40,
+        "Who can change a sinner’s heart?",
+        "The Holy Spirit alone."
+    ],
+    [
+        41,
+        "Can any one be saved through the covenant of works?",
+        "None can be saved through the covenant of works."
+    ],
+    [
+        42,
+        "Why can none be saved through the covenant of works?",
+        "Because all have broken it, and are condemned by it"
+    ],
+    [
+        43,
+        "With whom did God the Father make the covenant of grace?",
+        "With Christ, his eternal Son."
+    ],
+    [
+        44,
+        "Whom did Christ represent in the covenant of grace?",
+        "His elect people."
+    ],
+    [
+        45,
+        "What did Christ undertake in the covenant of grace?",
+        "To keep the whole law for his people, and to suffer the punishment due to their sins."
+    ],
+    [
+        46,
+        "Did our Lord Jesus Christ ever commit the least sin?",
+        "No; he was holy, harmless, and undefiled."
+    ],
+    [
+        47,
+        "How could the Son of God suffer?",
+        "Christ, the Son of God, became man that he might obey and suffer in our nature."
+    ],
+    [
+        48,
+        "What is meant by the Atonement?",
+        "Christ’s satisfying divine justice, by his sufferings and death, in the place of sinners."
+    ],
+    [
+        49,
+        "What did God the Father undertake in the covenant of grace?",
+        "To justify and sanctify those for whom Christ should die."
+    ],
+    [
+        50,
+        "What is justification?",
+        "It is God’s forgiving sinners, and treating them as if they had never sinned."
+    ],
+    [
+        51,
+        "What is sanctification?",
+        "It is God’s making sinners holy in heart and conduct."
+    ],
+    [
+        52,
+        "For whom did Christ obey and suffer?",
+        "For those whom the Father had given him."
+    ],
+    [
+        53,
+        "What kind of life did Christ live on earth?",
+        "A life of poverty and suffering."
+    ],
+    [
+        54,
+        "What kind of death did Christ die?",
+        "The painful and shameful death of the cross."
+    ],
+    [
+        55,
+        "Who will be saved?",
+        "Only those who repent of sin, believe in Christ, and lead holy lives."
+    ],
+    [
+        56,
+        "What is it to repent?",
+        "To be sorry for sin, and to hate and forsake it because it is displeasing to God."
+    ],
+    [
+        57,
+        "What is it to believe or have faith in Christ?",
+        "To trust in Christ alone for salvation."
+    ],
+    [
+        58,
+        "Can you repent and believe in Christ by your own power?",
+        "No; I can do nothing good without the help of God’s Holy Spirit."
+    ],
+    [
+        59,
+        "How can you get the help of the Holy Spirit?",
+        "God has told us that we must pray to him for the Holy Spirit."
+    ],
+    [
+        60,
+        "How long ago is it since Christ died?",
+        "More than nineteen hundred years."
+    ],
+    [
+        61,
+        "How were pious persons saved before the coming of Christ?",
+        "By believing in a Savior to come."
+    ],
+    [
+        62,
+        "How did they show their faith?",
+        "By offering sacrifices on God’s altar."
+    ],
+    [
+        63,
+        "What did these sacrifices represent?",
+        "Christ, the Lamb of God, who was to die for sinners."
+    ],
+    [
+        64,
+        "What offices has Christ?",
+        "Christ has three offices."
+    ],
+    [
+        65,
+        "What are they?",
+        "The offices of a prophet, of a priest, and of a king."
+    ],
+    [
+        66,
+        "How is Christ a prophet?",
+        "Because he teaches us the will of God."
+    ],
+    [
+        67,
+        "How is Christ a priest?",
+        "Because he died for our sins and pleads with God for us."
+    ],
+    [
+        68,
+        "How is Christ a king?",
+        "Because he rules over us and defends us."
+    ],
+    [
+        69,
+        "Why do you need Christ as a prophet?",
+        "Because I am ignorant."
+    ],
+    [
+        70,
+        "Why do you need Christ as a priest?",
+        "Because I am guilty."
+    ],
+    [
+        71,
+        "Why do you need Christ as a king?",
+        "Because I am weak and helpless."
+    ],
+    [
+        72,
+        "How many commandments did God give on Mount Sinai?",
+        "Ten commandments."
+    ],
+    [
+        73,
+        "What are the ten commandments sometimes called?",
+        "The Decalogue."
+    ],
+    [
+        74,
+        "What do the first four commandments teach?",
+        "Our duty to God."
+    ],
+    [
+        75,
+        "What do the last six commandments teach?",
+        "Our duty to our fellow men."
+    ],
+    [
+        76,
+        "What is the sum of the ten commandments?",
+        "To love God with all my heart, and my neighbor as myself."
+    ],
+    [
+        77,
+        "Who is your neighbor?",
+        "All my fellow men are my neighbors."
+    ],
+    [
+        78,
+        "Is God pleased with those who love and obey him?",
+        "Yes; he says, “I love them that love me.”"
+    ],
+    [
+        79,
+        "Is God displeased with those who do not love and obey him?",
+        "Yes; “God is angry with the wicked every day.”"
+    ],
+    [
+        80,
+        "What is the first commandment?",
+        "The first commandment is, Thou shalt have no other gods before me."
+    ],
+    [
+        81,
+        "What does the first commandment teach us?",
+        "To worship God alone."
+    ],
+    [
+        82,
+        "What is the second commandment?",
+        "The second commandment is, Thou shalt not make unto thee any graven image, or any likeness of any things that is in heaven above, or that is in the earth beneath, or that is in the water under the earth; thou shalt not bow down thyself to them, nor serve them: for I, the Lord thy God, am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto thousands of them that love me, and keep my commandments."
+    ],
+    [
+        83,
+        "What does the second commandment teach us?",
+        "To worship God in a proper manner, and to avoid idolatry."
+    ],
+    [
+        84,
+        "What is the third commandment?",
+        "The third commandment is, Thou shalt not take the name of the Lord thy God in vain: for the Lord will not hold him guiltless that taketh his name in vain."
+    ],
+    [
+        85,
+        "What does the third commandment teach me?",
+        "To reverence God’s name, word, and works."
+    ],
+    [
+        86,
+        "What is the fourth commandment?",
+        "The fourth commandment is, Remember the Sabbath day to keep it holy. Six days shalt thou labor, and do all thy work, but the seventh day is the Sabbath of the Lord thy God; in it thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates: for in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day; wherefore the Lord blessed the Sabbath Day, and hallowed it."
+    ],
+    [
+        87,
+        "What does the fourth commandment teach us?",
+        "To keep the Sabbath holy."
+    ],
+    [
+        88,
+        "What day of the week is the Christian Sabbath?",
+        "The first day of the week, called the Lord’s day."
+    ],
+    [
+        89,
+        "Why is it called the Lord’s day?",
+        "Because on that day Christ rose from the dead."
+    ],
+    [
+        90,
+        "How should the Sabbath be spent?",
+        "In prayer and praise, in hearing and reading God’s Word, and in doing good to our fellow men."
+    ],
+    [
+        91,
+        "What is the fifth commandment?",
+        "The fifth commandment is, Honor thy father and thy mother, that thy days may be long upon the land which the Lord thy God giveth thee."
+    ],
+    [
+        92,
+        "What does the fifth commandment teach me?",
+        "To love and obey our parents and teachers."
+    ],
+    [
+        93,
+        "What is the sixth commandment?",
+        "The sixth commandment is, Thou shalt not kill."
+    ],
+    [
+        94,
+        "What does the sixth commandment teach us?",
+        "To avoid angry passions."
+    ],
+    [
+        95,
+        "What is the seventh commandment?",
+        "The seventh commandment is, Thou shalt not commit adultery."
+    ],
+    [
+        96,
+        "What does the seventh commandment teach us?",
+        "To be pure in heart, language, and conduct."
+    ],
+    [
+        97,
+        "What is the eighth commandment?",
+        "The eighth commandment is, Thou shalt not steal."
+    ],
+    [
+        98,
+        "What does the eighth commandment teach us?",
+        "To be honest and industrious."
+    ],
+    [
+        99,
+        "What is the ninth commandment?",
+        "The ninth commandment is, Thou shalt not bear false witness against thy neighbor."
+    ],
+    [
+        100,
+        "What does the ninth commandment teach us?",
+        "To tell the truth."
+    ],
+    [
+        101,
+        "What is the tenth commandment?",
+        "The tenth commandment is, Thou shalt not covet thy neighbor’s house, thou shalt not covet thy neighbor’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbor’s."
+    ],
+    [
+        102,
+        "What does the tenth commandment teach us?",
+        "To be content with our lot."
+    ],
+    [
+        103,
+        "Can any man keep these ten commandments perfectly?",
+        "No mere man, since the fall of Adam, ever did or can keep the ten commandments perfectly."
+    ],
+    [
+        104,
+        "Of what use are the ten commandments to us?",
+        "They teach us our duty, and show our need of a Savior."
+    ],
+    [
+        105,
+        "What is prayer?",
+        "Prayer is asking God for things which he has promised to give."
+    ],
+    [
+        106,
+        "In whose name should we pray?",
+        "Only in the name of Christ."
+    ],
+    [
+        107,
+        "What has Christ given us to teach us how to pray?",
+        "The Lord’s Prayer."
+    ],
+    [
+        108,
+        "Repeat the Lord’s Prayer.",
+        "Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done in earth, as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen."
+    ],
+    [
+        109,
+        "How many petitions are there in The Lord’s Prayer?",
+        "Six."
+    ],
+    [
+        110,
+        "What is the first petition?",
+        "“Hallowed be thy name.”"
+    ],
+    [
+        111,
+        "What do we pray for in the first petition?",
+        "That God’s name may be honored by us and all men."
+    ],
+    [
+        112,
+        "What is the second petition?",
+        "“Thy kingdom come.”"
+    ],
+    [
+        113,
+        "What do we pray for in the second petition?",
+        "That the gospel may be preached in all the world, and believed and obeyed by us and all men."
+    ],
+    [
+        114,
+        "What is the third petition?",
+        "“Thy will be done in earth, as it is in heaven.”"
+    ],
+    [
+        115,
+        "What do we pray for in the third petition?",
+        "That men on earth may serve God as the angels do in heaven."
+    ],
+    [
+        116,
+        "What is the fourth petition?",
+        "“Give us this day our daily bread.”"
+    ],
+    [
+        117,
+        "What do we pray for in the fourth petition?",
+        "That God would give us all things needful for our bodies and souls."
+    ],
+    [
+        118,
+        "What is the fifth petition?",
+        "“And forgive us our debts, as we forgive our debtors.”"
+    ],
+    [
+        119,
+        "What do we pray for in the fifth petition?",
+        "That God would pardon our sins for Christ’s sake, and enable us to forgive those who have injured us."
+    ],
+    [
+        120,
+        "What is the sixth petition?",
+        "“And lead us not into temptation, but deliver us from evil.”"
+    ],
+    [
+        121,
+        "What do we pray for in the sixth petition?",
+        "That God would keep us from sin."
+    ],
+    [
+        122,
+        "How many sacraments are there?",
+        "Two."
+    ],
+    [
+        123,
+        "What are they?",
+        "Baptism and the Lord’s Supper."
+    ],
+    [
+        124,
+        "Who appointed these sacraments?",
+        "The Lord Jesus Christ."
+    ],
+    [
+        125,
+        "Why did Christ appoint these sacraments?",
+        "To distinguish his disciples from the world, and to comfort and strengthen them."
+    ],
+    [
+        126,
+        "What sign is used in baptism?",
+        "The washing with water."
+    ],
+    [
+        127,
+        "What does this signify?",
+        "That we are cleansed from sin by the blood of Christ."
+    ],
+    [
+        128,
+        "In whose name are we baptized?",
+        "In the name of the Father, and of the Son, and of the Holy Ghost."
+    ],
+    [
+        129,
+        "Who are to be baptized?",
+        "Believers and their children."
+    ],
+    [
+        130,
+        "Why should infants be baptized?",
+        "Because they have a sinful nature and need a Savior."
+    ],
+    [
+        131,
+        "Does Christ care for little children?",
+        "Yes; for he says, “Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God.”"
+    ],
+    [
+        132,
+        "To what does your baptism bind you?",
+        "To be a true follower of Christ."
+    ],
+    [
+        133,
+        "What is the Lord’s Supper?",
+        "The eating of bread and drinking of wine in remembrance of the sufferings and death of Christ."
+    ],
+    [
+        134,
+        "What does the bread represent?",
+        "The body of Christ, broken for our sins."
+    ],
+    [
+        135,
+        "What does the wine represent?",
+        "The blood of Christ, shed for our salvation."
+    ],
+    [
+        136,
+        "Who should partake of the Lord’s Supper?",
+        "Only those who repent of their sins, believe in Christ for salvation, and love their fellow men."
+    ],
+    [
+        137,
+        "Did Christ remain in the tomb after his crucifixion?",
+        "No; he rose from the tomb on the third day after his death."
+    ],
+    [
+        138,
+        "Where is Christ now?",
+        "In heaven, interceding for sinners."
+    ],
+    [
+        139,
+        "Will he come again?",
+        "Yes; at the last day Christ will come to judge the world."
+    ],
+    [
+        140,
+        "What becomes of men at death?",
+        "The body returns to dust, and the soul goes into the world of spirits."
+    ],
+    [
+        141,
+        "Will the bodies of the dead be raised to life again?",
+        "Yes; “The trumpet shall sound, and the dead shall be raised.”"
+    ],
+    [
+        142,
+        "What will become of the wicked in the day of judgment?",
+        "They shall be cast into hell."
+    ],
+    [
+        143,
+        "What is hell?",
+        "A place of dreadful and endless torment."
+    ],
+    [
+        144,
+        "What will become of the righteous?",
+        "They shall be taken to heaven."
+    ],
+    [
+        145,
+        "What is heaven?",
+        "A glorious and happy place, where the righteous shall be forever with the Lord."
+    ]
+]
